@@ -1,4 +1,6 @@
-@import "./base/_base";
+@import "./base/base";
+@import "./base/settings";
+@import "./components/button";
 @import "./components/header";
-@import "./base/_settings.css";
 @import "./components/container";
+@import "./components/widget"
