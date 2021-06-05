@@ -1,5 +1,7 @@
 import React from 'react';
 import Header from './header';
+import AddOption from './addOption';
+import Option from './option';
 
 export default class TodoApp extends React.Component {
     state = {
