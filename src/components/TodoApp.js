@@ -1,7 +1,9 @@
 import React from 'react';
 import Header from './header';
 import AddOption from './addOption';
-import Option from './option';
+import Action from './action';
+import Options from './options';
+import OptionModal from './optionModal';
 
 export default class TodoApp extends React.Component {
     state = {
