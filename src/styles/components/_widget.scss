@@ -1,21 +1,21 @@
 // Wigdet
 .widget {
-    background: $light-white;
-    margin-bottom: $x-size;
+  background: $off-white;
+  margin-bottom: $x-size;
 }
 
 .widget_message {
-    border-bottom: 1px solid lighten($light-blue, 10%);
-    color: $off-white;
-    margin: 0;
-    padding: $l-size;
-    text-align: center;
+  border-bottom: 1px solid lighten($light-blue, 10%);
+  color: $off-white;
+  margin: 0;
+  padding: $l-size;
+  text-align: center;
 }
 
 .widget-header {
-    background: $light-blue;
-    color: $off-white;
-    display: flex;
-    justify-content: space-between;
-    padding: $m-size;
+  background: $light-blue;
+  color: $off-white;
+  display: flex;
+  justify-content: space-between;
+  padding: $m-size;
 }
